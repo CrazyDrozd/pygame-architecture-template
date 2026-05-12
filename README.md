@@ -1,11 +1,11 @@
-# Traffic-Road
+# pygame-architecture-template
 
 > *"Architecture should speak of its time and place, but yearn for timelessness."*  
 > — **Frank Gehry**
 
 ## 🚧 About the Project
 
-At present, **Traffic-Road** is a clean, modular template for future PyGame projects.  
+At present, **pygame-architecture-template** is a clean, modular template for future PyGame projects.  
 It was built as a pet project to practice **SOLID principles**, **software architecture patterns**, and to get comfortable with Robert C. Martin's coding style and best practices.
 
 The ultimate goal is to evolve this into a reusable, well-architectured foundation that can be used daily for game development in Python.
@@ -35,8 +35,8 @@ The ultimate goal is to evolve this into a reusable, well-architectured foundati
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/Traffic-Road.git
-cd Traffic-Road
+git clone https://github.com/yourusername/pygame-architecture-template.git
+cd pygame-architecture-template
 pip install -r requirements.txt   # if you have one, otherwise install pygame manually
 ```
 
@@ -61,8 +61,6 @@ pip install -r requirements.txt   # if you have one, otherwise install pygame ma
 * Turn this into a production-ready architecture for daily use
 
 * Add unit tests 
-
-* Implement actual traffic/road simulation logic
 
 * Fully test and polish Docker support
 
