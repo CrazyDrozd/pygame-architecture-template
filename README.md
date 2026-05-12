@@ -5,7 +5,7 @@
 
 ## 🚧 About the Project
 > [!WARNING]
-> This is a pet-project written by a college student and might not be 100% perfect, if anyone is gonna use that for their own reasons, know that fact, in case you will get disappointed by this template.
+> This is a pet-project written by a college student and might ***not*** be 100% perfect, if anyone is gonna use that for their own reasons, know that fact, in case you will get disappointed by this template.
 
 At present, **pygame-architecture-template** is a clean, modular template for future PyGame projects.  
 It was built as a pet project to practice **SOLID principles**, **software architecture patterns**, and to get comfortable with Robert C. Martin's coding style and best practices.
