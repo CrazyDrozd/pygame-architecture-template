@@ -30,16 +30,16 @@ The ultimate goal is to evolve this into a reusable, well-architectured foundati
 ---
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.8 — 3.12
-- PyGame (install via `pip install pygame`)
+> [!NOTE]
+> ### Prerequisites
+> - Python 3.8 — 3.12
+> - PyGame (install via `pip install pygame`)
 
 ### Installation
 ```bash
 git clone https://github.com/CrazyDrozd/pygame-architecture-template.git
 cd pygame-architecture-template
-pip install -r requirements.txt   # if you have one, otherwise install pygame manually
+pip install -r requirements.txt 
 ```
 
 ---
