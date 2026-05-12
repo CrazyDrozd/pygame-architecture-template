@@ -35,7 +35,7 @@ The ultimate goal is to evolve this into a reusable, well-architectured foundati
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/pygame-architecture-template.git
+git clone https://github.com/CrazyDrozd/pygame-architecture-template.git
 cd pygame-architecture-template
 pip install -r requirements.txt   # if you have one, otherwise install pygame manually
 ```
